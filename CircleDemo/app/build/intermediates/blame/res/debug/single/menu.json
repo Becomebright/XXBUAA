@@ -1,10 +1,18 @@
 [
     {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\new_menu.xml",
         "source": "F:\\android\\MyApplication\\CircleDemo\\app\\src\\main\\res\\menu\\new_menu.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "F:\\android\\MyApplication\\CircleDemo\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\new_menu.xml",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\menu\\new_menu.xml"
     }
 ]

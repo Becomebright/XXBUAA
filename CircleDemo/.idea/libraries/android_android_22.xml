@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="android-android-22">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../androidSDK/platforms/android-22/android.jar!/" />
+      <root url="jar://F:/android/androidSDK/platforms/android-22/android.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

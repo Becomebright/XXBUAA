@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_chat_comment_send_prs.png",
         "source": "F:\\android\\MyApplication\\CircleDemo\\app\\src\\main\\res\\drawable-xhdpi\\biz_chat_comment_send_prs.png"
     },
@@ -10,5 +14,13 @@
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_chat_comment_send.png",
         "source": "F:\\android\\MyApplication\\CircleDemo\\app\\src\\main\\res\\drawable-xhdpi\\biz_chat_comment_send.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_chat_comment_send.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable-xhdpi\\biz_chat_comment_send.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_chat_comment_send_prs.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable-xhdpi\\biz_chat_comment_send_prs.png"
     }
 ]

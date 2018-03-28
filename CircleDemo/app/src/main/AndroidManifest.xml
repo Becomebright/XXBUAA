@@ -62,9 +62,6 @@
             android:label="@string/title_activity_slide__menu" />
 
         <activity
-            android:name="com.yiw.circledemo.xxbuaa.Lesson_show"
-            android:label="@string/title_activity_lesson_show" />
-        <activity
             android:name="com.yiw.circledemo.xxbuaa.GradeTemp"
             android:label="成绩查询"
             android:theme="@style/AppTheme" />

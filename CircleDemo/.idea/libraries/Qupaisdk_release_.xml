@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Qupaisdk-release-">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/9db18bf1593a5d63d880c133b2096219cdd4017d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/9db18bf1593a5d63d880c133b2096219cdd4017d/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

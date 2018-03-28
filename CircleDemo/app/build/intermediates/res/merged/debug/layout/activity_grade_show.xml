@@ -14,7 +14,7 @@
         android:layout_height="match_parent">
 
     </ListView>
-    <com.example.hasee_pc.xxbuaa.ProgressView
+    <com.yiw.circledemo.xxbuaa.ProgressView
         android:id="@+id/circleProgress"
         android:layout_width="0dp"
         android:layout_height="0dp"
@@ -25,6 +25,6 @@
         app:progress_text_size_bottom="20dp"
         app:progress_text_size_top="40dp">
 
-    </com.example.hasee_pc.xxbuaa.ProgressView>
+    </com.yiw.circledemo.xxbuaa.ProgressView>
 
 </LinearLayout>

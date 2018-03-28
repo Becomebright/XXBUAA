@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\android\MyApplication\CircleDemo\qupai\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="074bef397ea0f1b32bb93de453802ead6f05c004">
+        <dex dex="F:\android\MyApplication\CircleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_0db07f2a8ae93b6d370a9457d32ebb70e289d89d\classes.dex" />
+    </item>
+
+</items>

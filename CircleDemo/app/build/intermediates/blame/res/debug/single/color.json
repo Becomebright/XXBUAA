@@ -36,19 +36,19 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {

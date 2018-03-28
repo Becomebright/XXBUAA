@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\m.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\mipmap-hdpi\\m.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\s1.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\mipmap-hdpi\\s1.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\menu2.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\mipmap-hdpi\\menu2.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\mm.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\mipmap-hdpi\\mm.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\menu1.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\mipmap-hdpi\\menu1.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\file.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\mipmap-hdpi\\file.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\three.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\mipmap-hdpi\\three.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\search.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\mipmap-hdpi\\search.png"
+    }
+]

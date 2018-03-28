@@ -19,6 +19,7 @@ import android.widget.Toast;
 
 import com.alibaba.fastjson.JSON;
 import com.wang.avi.AVLoadingIndicatorView;
+import com.yiw.circledemo.R;
 
 import org.apache.http.util.EncodingUtils;
 

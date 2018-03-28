@@ -3,12 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="F:\android\MyApplication\CircleDemo\qupai\build\intermediates\bundles\default\classes.jar"
+        jar="F:\github\XXBUAA\CircleDemo\qupai\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.0"
         sha1="074bef397ea0f1b32bb93de453802ead6f05c004">
-        <dex dex="F:\android\MyApplication\CircleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_0db07f2a8ae93b6d370a9457d32ebb70e289d89d\classes.dex" />
+        <dex dex="F:\github\XXBUAA\CircleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_d4748e7e54a23fe5049d2bc3370d4b8702dadf15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\小黑866\.android\build-cache\c60920761328219dad19cfb23900b16bd675d394\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4d78973c233fdbadaf39ba359a212d69346c7ad4">
+        <dex dex="F:\github\XXBUAA\CircleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96f71cd6258c6d33c967fc531cb783fbcc9de4e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\小黑866\.android\build-cache\9f55a90415a213bc89e60c7e056a5ad213893eff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9f1c47adb229e2ecc3ea54da0db8e363bb267ef1">
+        <dex dex="F:\github\XXBUAA\CircleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b8a57ee0f483c27cba860a48b403cd16fc236df\classes.dex" />
     </item>
 
 </items>

@@ -1,41 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/color_aeaeae"
+    android:fitsSystemWindows="true"
     android:orientation="vertical"
-    tools:context="com.example.hasee_pc.xxbuaa.MainActivity">
+    tools:context=".activity.MainActivity" >
 
-    <FrameLayout
-        android:id="@+id/content"
+    <include layout="@layout/layout_main_titlebar" />
+
+    <RelativeLayout
+        android:id="@+id/bodyLayout"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1">
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+        android:layout_height="match_parent" >
 
-        </LinearLayout>
-        <TextView
-            android:id="@+id/message"
+        <com.malinskiy.superrecyclerview.SuperRecyclerView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:mainLayoutId="@layout/layout_recyclerview_verticalscroll"
+            app:layout_moreProgress="@layout/view_more_progress"
+            app:recyclerClipToPadding="true"
+            app:scrollbarStyle="outsideOverlay" />
+
+        <include
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="@dimen/activity_vertical_margin"
-            android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginTop="@dimen/activity_vertical_margin"
-            android:text="@string/title_home" />
+            android:layout_alignParentBottom="true"
+            layout="@layout/layout_editview"/>
 
-    </FrameLayout>
+        <com.mikhaellopez.circularprogressbar.CircularProgressBar
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/video_progress"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:visibility="gone"
+            app:cpb_background_progressbar_color="@color/white"
+            app:cpb_background_progressbar_width="3dp"
+            app:cpb_progressbar_color="@color/colorAccent"
+            app:cpb_progressbar_width="3dp" />
 
-    <android.support.design.widget.BottomNavigationView
-        android:id="@+id/navigation"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom"
-        android:background="?android:attr/windowBackground"
-        app:menu="@menu/navigation" />
+    </RelativeLayout>
 
 </LinearLayout>

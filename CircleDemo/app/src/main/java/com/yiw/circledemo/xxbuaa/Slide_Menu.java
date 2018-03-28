@@ -99,6 +99,38 @@ public class Slide_Menu extends Activity implements View.OnClickListener {
         startActivityForResult(intent, 2);
     }
 
+    public static int calculateInSampleSize(BitmapFactory.Options options, int reqWidth, int reqHeight) {
+        // 源图片的高度和宽度
+        final int height = options.outHeight;
+        final int width = options.outWidth;
+        int inSampleSize = 1;
+        if (height > reqHeight || width > reqWidth) {
+            // 计算出实际宽高和目标宽高的比率
+            final int heightRatio = Math.round((float) height / (float) reqHeight);
+            final int widthRatio = Math.round((float) width / (float) reqWidth);
+            // 选择宽和高中最小的比率作为inSampleSize的值，这样可以保证最终图片的宽和高
+            // 一定都会大于等于目标的宽和高。
+            inSampleSize = heightRatio < widthRatio ? heightRatio : widthRatio;
+        }
+        return inSampleSize;
+    }
+    public static Bitmap decodeSampledBitmapFromFile(String pathName, int reqWidth, int reqHeight) {
+        final BitmapFactory.Options options = new BitmapFactory.Options();
+        options.inJustDecodeBounds = true;
+        BitmapFactory.decodeFile(pathName, options);
+        options.inSampleSize = calculateInSampleSize(options, reqWidth, reqHeight);
+        options.inJustDecodeBounds = false;
+        Bitmap src = BitmapFactory.decodeFile(pathName, options);
+        return createScaleBitmap(src, reqWidth, reqHeight,0);
+    }
+    private static Bitmap createScaleBitmap(Bitmap src, int dstWidth, int dstHeight, int inSampleSize) {
+        // 如果是放大图片，filter决定是否平滑，如果是缩小图片，filter无影响，我们这里是缩小图片，所以直接设置为false
+        Bitmap dst = Bitmap.createScaledBitmap(src, dstWidth, dstHeight, false);
+        if (src != dst) { // 如果没有缩放，那么不回收
+            src.recycle(); // 释放Bitmap的native像素数组
+        }
+        return dst;
+    }
 
 
     @Override
@@ -126,7 +158,8 @@ public class Slide_Menu extends Activity implements View.OnClickListener {
                                 public void onClick(DialogInterface dialog, int which) {
                                     // 点击“确认”后的操作
                                     //createFile(de);
-                                    Bitmap bm = BitmapFactory.decodeFile(imgpath);
+                                    Bitmap bm=decodeSampledBitmapFromFile(imgpath,80,80);
+
                                     String nphotopath= Background.getPhotopath();
                                     File file=new File(nphotopath);
                                     try {

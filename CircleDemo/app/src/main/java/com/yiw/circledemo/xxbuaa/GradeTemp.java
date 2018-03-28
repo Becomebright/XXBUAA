@@ -13,6 +13,8 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 
+import com.yiw.circledemo.R;
+
 import java.util.ArrayList;
 import java.util.List;
 

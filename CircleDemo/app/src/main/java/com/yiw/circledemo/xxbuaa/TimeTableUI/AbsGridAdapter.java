@@ -60,7 +60,7 @@ public class AbsGridAdapter extends BaseAdapter {
             textView.setTextColor(Color.WHITE);
             //变换颜色
             Random random = new Random();
-            int rand = random.nextInt() % columnTotal;
+            int rand = position % columnTotal;
             switch( rand ) {
                 case 0:
                     textView.setBackground(mContext.getResources().getDrawable(R.drawable.grid_item_bg));

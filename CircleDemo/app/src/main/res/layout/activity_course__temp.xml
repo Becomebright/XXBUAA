@@ -6,39 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     >
-    <!--显示时间-->
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@android:color/white">
-        <TextView
-            android:id="@+id/year"
-            android:layout_width="wrap_content"
-            android:layout_height="50dp"
-            android:layout_gravity="center"
-            android:gravity="center"
-            android:layout_marginLeft="20dp"
-            android:textSize="20dp"
-            android:text="2018年"/>
-        <!--竖线-->
-        <View
-            android:layout_width="1dp"
-            android:layout_height="match_parent"
-            android:layout_marginLeft="20dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
-            android:background="#00FFFF"
-            />
-        <!--下拉方式选周数-->
-        <Spinner
-            android:id="@+id/switchWeek"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:gravity="center"
-            android:layout_gravity="center"
-            />
 
-    </LinearLayout>
     <!--分隔线-->
     <View
         android:layout_width="match_parent"
@@ -50,7 +18,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:background="@android:color/white">
-        <com.example.hasee_pc.xxbuaa.TimeTableUI.WeekTitle
+        <com.yiw.circledemo.xxbuaa.TimeTableUI.WeekTitle
             android:layout_width="match_parent"
             android:layout_height="30dp"
             android:layout_marginTop="10dp"/>

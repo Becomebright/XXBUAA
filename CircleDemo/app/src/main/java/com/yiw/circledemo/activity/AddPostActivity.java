@@ -130,6 +130,13 @@ public class AddPostActivity extends AppCompatActivity {
                                 public void onClick(DialogInterface dialog, int which) {
                                     // 点击“确认”后的操作
                                     //createFile(de);
+                                    final BitmapFactory.Options options = new BitmapFactory.Options();
+                                    options.inJustDecodeBounds = true;
+                                    BitmapFactory.decodeFile(imgpath, options);
+                                    final int height = options.outHeight;
+                                    final int width = options.outWidth;
+
+
                                     Bitmap bm = BitmapFactory.decodeFile(imgpath);
                                     String nphotopath=getPhotopath();
                                     File file=new File(nphotopath);
@@ -157,8 +164,8 @@ public class AddPostActivity extends AppCompatActivity {
                                         e.printStackTrace();
                                     }
                                     PhotoInfo photoInfo1=new PhotoInfo();
-                                    photoInfo1.h=1500;
-                                    photoInfo1.w=1500;
+                                    photoInfo1.h=height;
+                                    photoInfo1.w=width;
                                     photoInfo1.url=postImage.getBackpath();
                                     photos.add(photoInfo1);
                                     if(photos.size()<3){

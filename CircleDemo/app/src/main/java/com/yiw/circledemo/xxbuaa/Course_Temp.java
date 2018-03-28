@@ -51,11 +51,11 @@ public class Course_Temp extends AppCompatActivity {
         secondAdapter = new AbsGridAdapter(this);
         secondAdapter.setContent(contents, 12, 7);
         detailCource.setAdapter(secondAdapter);
-        //////////////创建Spinner数据
-        fillDataList();
-        spinnerAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, dataList);
-        spinnerAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        spinner.setAdapter(spinnerAdapter);
+//        //////////////创建Spinner数据
+//        fillDataList();
+//        spinnerAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, dataList);
+//        spinnerAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+//        spinner.setAdapter(spinnerAdapter);
     }
     /**
      * 准备数据

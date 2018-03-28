@@ -45,15 +45,13 @@ public class MyAdapter extends BaseAdapter {
             convertView = LayoutInflater.from(mContext).inflate(R.layout.grib_item, null);
         }
         TextView textView = (TextView)convertView.findViewById(R.id.text);
-
-
         //如果有课,那么添加数据
         if( !getItem(position).equals("")) {
             textView.setText((String)getItem(position));
             textView.setTextColor(Color.WHITE);
             //变换颜色
             Random random = new Random();
-            int rand = random.nextInt() % 7;
+            int rand = position % 7;
             switch( rand ) {
                 case 0:
                     textView.setBackground(mContext.getResources().getDrawable(R.drawable.grid_item_bg));

@@ -5,10 +5,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.yiw.circledemo.R;
+import com.yiw.circledemo.xxbuaa.Grade;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 

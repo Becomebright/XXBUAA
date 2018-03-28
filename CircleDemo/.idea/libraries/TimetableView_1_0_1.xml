@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="TimetableView-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/9f55a90415a213bc89e60c7e056a5ad213893eff/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/9f55a90415a213bc89e60c7e056a5ad213893eff/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.3.3/caches/modules-2/files-2.1/com.zhuangfei/TimetableView/1.0.1/9653c90688b24d97fd37258068821f4c4c1f62cf/TimetableView-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

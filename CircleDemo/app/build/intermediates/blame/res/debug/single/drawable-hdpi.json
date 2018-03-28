@@ -1,5 +1,13 @@
 [
     {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
@@ -10,6 +18,10 @@
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_video_play.png",
         "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_video_play.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home_black_24dp.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm.png",

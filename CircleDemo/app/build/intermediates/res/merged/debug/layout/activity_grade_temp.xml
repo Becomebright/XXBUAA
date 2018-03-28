@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.hasee_pc.xxbuaa.GradeTemp"
+    tools:context="com.yiw.circledemo.xxbuaa.GradeTemp"
     >
     <!--下拉方式选周数-->
     <!--显示时间-->

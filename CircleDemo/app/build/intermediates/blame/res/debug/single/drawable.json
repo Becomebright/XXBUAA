@@ -32,12 +32,12 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\drawable\\tab_font_qupai_selector.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_corner_style35.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\9f55a90415a213bc89e60c7e056a5ad213893eff\\output\\res\\drawable\\item_corner_style35.xml"
-    },
-    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_corner_style35.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\9f55a90415a213bc89e60c7e056a5ad213893eff\\output\\res\\drawable\\item_corner_style35.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_corner_style11_normal.xml",
@@ -124,16 +124,12 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\9f55a90415a213bc89e60c7e056a5ad213893eff\\output\\res\\drawable\\item_corner_style9.xml"
     },
     {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_timeline_start.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\drawable\\edit_timeline_start.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diy_group_qupai_item_text_selector.xml",
@@ -148,20 +144,20 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\drawable\\edit_timeline_start.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_15.xml",
-        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable\\bg_15.xml"
-    },
-    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_diy_editbar_rectstroke.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\drawable\\theme_default_qupai_diy_editbar_rectstroke.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_corner_style_pressed.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\9f55a90415a213bc89e60c7e056a5ad213893eff\\output\\res\\drawable\\item_corner_style_pressed.xml"
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_15.xml",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable\\bg_15.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_seek_bar_progress_drawable.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\drawable\\theme_default_qupai_seek_bar_progress_drawable.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_corner_style_pressed.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\9f55a90415a213bc89e60c7e056a5ad213893eff\\output\\res\\drawable\\item_corner_style_pressed.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_qupai_tip_gallery_bg.xml",
@@ -224,16 +220,16 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\drawable\\progress_qupai_circle.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_corner_style31_normal.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\9f55a90415a213bc89e60c7e056a5ad213893eff\\output\\res\\drawable\\item_corner_style31_normal.xml"
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_corner_style31_normal.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\9f55a90415a213bc89e60c7e056a5ad213893eff\\output\\res\\drawable\\item_corner_style31_normal.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_btn_qupai_record_next_step_tick.xml",
@@ -244,12 +240,12 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\9f55a90415a213bc89e60c7e056a5ad213893eff\\output\\res\\drawable\\item_corner_style33_normal.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_corner_style32.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\9f55a90415a213bc89e60c7e056a5ad213893eff\\output\\res\\drawable\\item_corner_style32.xml"
-    },
-    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar_qupai_thumb.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\drawable\\seek_bar_qupai_thumb.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_corner_style32.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\9f55a90415a213bc89e60c7e056a5ad213893eff\\output\\res\\drawable\\item_corner_style32.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textcolor_qupai_default_shape.xml",
@@ -384,10 +380,6 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\drawable\\btn_qupai_remake_confirm_selector.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\b406e5e512a9ca9eebeb2209112c6fdb325a096a\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diy_qupai_category_new.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\drawable\\diy_qupai_category_new.xml"
     },
@@ -396,12 +388,12 @@
         "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable\\bg_14.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_qupai_dubbing_timeline.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\drawable\\progress_qupai_dubbing_timeline.xml"
-    },
-    {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_diy_editbar_end_selector.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\drawable\\theme_default_qupai_diy_editbar_end_selector.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_qupai_dubbing_timeline.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\drawable\\progress_qupai_dubbing_timeline.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_qupai_radius_bg.xml",
@@ -1394,14 +1386,6 @@
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_qupai_edit_effect_audio_mix.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\drawable\\tab_indicator_qupai_edit_effect_audio_mix.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\b406e5e512a9ca9eebeb2209112c6fdb325a096a\\output\\res\\drawable\\design_password_eye.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qupai_common_overscroll_glow.xml",

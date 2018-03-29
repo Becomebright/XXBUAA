@@ -5,7 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    tools:context="com.yiw.circledemo.xxbuaa.Course_Temp"
     >
+
 
     <!--分隔线-->
     <View
@@ -26,7 +28,8 @@
     <!--显示课表详细信息-->
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="0dp"
+        android:layout_weight="1">
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
@@ -127,5 +130,9 @@
             </GridView>
         </LinearLayout>
     </ScrollView>
-
+    <com.ashokvarma.bottomnavigation.BottomNavigationBar
+        android:id="@+id/bottom_navigation_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom" />
 </LinearLayout>

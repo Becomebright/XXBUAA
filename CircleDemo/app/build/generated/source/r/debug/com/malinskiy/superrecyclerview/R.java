@@ -8,69 +8,69 @@ package com.malinskiy.superrecyclerview;
 
 public final class R {
     public static final class attr {
-        public static final int drag_edge = 0x7f010169;
-        public static final int horizontalSwipeOffset = 0x7f01016a;
-        public static final int layoutManager = 0x7f01014e;
-        public static final int layout_empty = 0x7f0101b3;
-        public static final int layout_moreProgress = 0x7f0101b4;
-        public static final int layout_progress = 0x7f0101b5;
-        public static final int mainLayoutId = 0x7f0101bd;
-        public static final int recyclerClipToPadding = 0x7f0101b6;
-        public static final int recyclerPadding = 0x7f0101b7;
-        public static final int recyclerPaddingBottom = 0x7f0101b9;
-        public static final int recyclerPaddingLeft = 0x7f0101ba;
-        public static final int recyclerPaddingRight = 0x7f0101bb;
-        public static final int recyclerPaddingTop = 0x7f0101b8;
-        public static final int reverseLayout = 0x7f010150;
-        public static final int scrollbarStyle = 0x7f0101bc;
-        public static final int show_mode = 0x7f01016c;
-        public static final int spanCount = 0x7f01014f;
-        public static final int stackFromEnd = 0x7f010151;
-        public static final int verticalSwipeOffset = 0x7f01016b;
+        public static final int drag_edge = 0x7f010170;
+        public static final int horizontalSwipeOffset = 0x7f010171;
+        public static final int layoutManager = 0x7f010155;
+        public static final int layout_empty = 0x7f0101ba;
+        public static final int layout_moreProgress = 0x7f0101bb;
+        public static final int layout_progress = 0x7f0101bc;
+        public static final int mainLayoutId = 0x7f0101c4;
+        public static final int recyclerClipToPadding = 0x7f0101bd;
+        public static final int recyclerPadding = 0x7f0101be;
+        public static final int recyclerPaddingBottom = 0x7f0101c0;
+        public static final int recyclerPaddingLeft = 0x7f0101c1;
+        public static final int recyclerPaddingRight = 0x7f0101c2;
+        public static final int recyclerPaddingTop = 0x7f0101bf;
+        public static final int reverseLayout = 0x7f010157;
+        public static final int scrollbarStyle = 0x7f0101c3;
+        public static final int show_mode = 0x7f010173;
+        public static final int spanCount = 0x7f010156;
+        public static final int stackFromEnd = 0x7f010158;
+        public static final int verticalSwipeOffset = 0x7f010172;
     }
     public static final class dimen {
-        public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f09009b;
-        public static final int item_touch_helper_swipe_escape_max_velocity = 0x7f09009c;
-        public static final int item_touch_helper_swipe_escape_velocity = 0x7f09009d;
-        public static final int swipe_progress_bar_height = 0x7f0900e6;
+        public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f0900b1;
+        public static final int item_touch_helper_swipe_escape_max_velocity = 0x7f0900b2;
+        public static final int item_touch_helper_swipe_escape_velocity = 0x7f0900b3;
+        public static final int swipe_progress_bar_height = 0x7f09010a;
     }
     public static final class id {
         public static final int bottom = 0x7f0f0052;
-        public static final int empty = 0x7f0f01c3;
-        public static final int insideInset = 0x7f0f0087;
-        public static final int insideOverlay = 0x7f0f0088;
+        public static final int empty = 0x7f0f01d1;
+        public static final int insideInset = 0x7f0f008d;
+        public static final int insideOverlay = 0x7f0f008e;
         public static final int item_touch_helper_previous_elevation = 0x7f0f000d;
-        public static final int lay_down = 0x7f0f0083;
+        public static final int lay_down = 0x7f0f0089;
         public static final int left = 0x7f0f0056;
-        public static final int more_progress = 0x7f0f01c1;
-        public static final int outsideInset = 0x7f0f0089;
-        public static final int outsideOverlay = 0x7f0f008a;
-        public static final int ptr_layout = 0x7f0f01c2;
-        public static final int pull_out = 0x7f0f0084;
+        public static final int more_progress = 0x7f0f01cf;
+        public static final int outsideInset = 0x7f0f008f;
+        public static final int outsideOverlay = 0x7f0f0090;
+        public static final int ptr_layout = 0x7f0f01d0;
+        public static final int pull_out = 0x7f0f008a;
         public static final int recyclerview_swipe = 0x7f0f003f;
         public static final int right = 0x7f0f0057;
         public static final int top = 0x7f0f0058;
     }
     public static final class layout {
-        public static final int layout_more_progress = 0x7f040089;
-        public static final int layout_progress = 0x7f04008a;
-        public static final int layout_progress_recyclerview = 0x7f04008b;
-        public static final int layout_recyclerview_horizontalscroll = 0x7f04008c;
-        public static final int layout_recyclerview_verticalscroll = 0x7f04008d;
+        public static final int layout_more_progress = 0x7f04008b;
+        public static final int layout_progress = 0x7f04008c;
+        public static final int layout_progress_recyclerview = 0x7f04008d;
+        public static final int layout_recyclerview_horizontalscroll = 0x7f04008e;
+        public static final int layout_recyclerview_verticalscroll = 0x7f04008f;
     }
     public static final class styleable {
-        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f01014e, 0x7f01014f, 0x7f010150, 0x7f010151, 0x7f010152, 0x7f010153, 0x7f010154, 0x7f010155, 0x7f010156 };
+        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f010155, 0x7f010156, 0x7f010157, 0x7f010158, 0x7f010159, 0x7f01015a, 0x7f01015b, 0x7f01015c, 0x7f01015d };
         public static final int RecyclerView_android_orientation = 0;
         public static final int RecyclerView_layoutManager = 2;
         public static final int RecyclerView_reverseLayout = 4;
         public static final int RecyclerView_spanCount = 3;
         public static final int RecyclerView_stackFromEnd = 5;
-        public static final int[] SwipeLayout = { 0x7f010169, 0x7f01016a, 0x7f01016b, 0x7f01016c };
+        public static final int[] SwipeLayout = { 0x7f010170, 0x7f010171, 0x7f010172, 0x7f010173 };
         public static final int SwipeLayout_drag_edge = 0;
         public static final int SwipeLayout_horizontalSwipeOffset = 1;
         public static final int SwipeLayout_show_mode = 3;
         public static final int SwipeLayout_verticalSwipeOffset = 2;
-        public static final int[] superrecyclerview = { 0x7f0101b3, 0x7f0101b4, 0x7f0101b5, 0x7f0101b6, 0x7f0101b7, 0x7f0101b8, 0x7f0101b9, 0x7f0101ba, 0x7f0101bb, 0x7f0101bc, 0x7f0101bd };
+        public static final int[] superrecyclerview = { 0x7f0101ba, 0x7f0101bb, 0x7f0101bc, 0x7f0101bd, 0x7f0101be, 0x7f0101bf, 0x7f0101c0, 0x7f0101c1, 0x7f0101c2, 0x7f0101c3, 0x7f0101c4 };
         public static final int superrecyclerview_layout_empty = 0;
         public static final int superrecyclerview_layout_moreProgress = 1;
         public static final int superrecyclerview_layout_progress = 2;

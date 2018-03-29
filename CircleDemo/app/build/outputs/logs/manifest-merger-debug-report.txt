@@ -22,6 +22,7 @@ MERGED from [com.malinskiy:superrecyclerview:1.1.4] C:\Users\小黑866\.android\bu
 MERGED from [com.mikhaellopez:circularprogressbar:1.1.1] C:\Users\小黑866\.android\build-cache\129a2abd4cf9542cca7b30a986fdb1afd7374d32\output\AndroidManifest.xml:8:5-10:41
 MERGED from [com.zhuangfei:TimetableView:1.0.1] C:\Users\小黑866\.android\build-cache\9f55a90415a213bc89e60c7e056a5ad213893eff\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:multidex:1.0.1] C:\Users\小黑866\.android\build-cache\bab372b243bdaf2d2eb86e0407f322620e517797\output\AndroidManifest.xml:18:5-42
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:1.2.0] C:\Users\小黑866\.android\build-cache\da3d70cba6c09d1c0e9c15e716fb772957f81188\output\AndroidManifest.xml:7:5-9:41
 MERGED from [pub.devrel:easypermissions:0.2.1] C:\Users\小黑866\.android\build-cache\7d1d68ff7be7da56ac0cc9ecdb7f93ef57baf9a1\output\AndroidManifest.xml:8:5-10:41
 MERGED from [CircleDemo:qupai:unspecified] F:\github\XXBUAA\CircleDemo\qupai\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-v13:22.2.0] C:\Users\小黑866\.android\build-cache\5478b8b7f78c6de0fb70853d93c5ea79a09a48cf\output\AndroidManifest.xml:20:5-44
@@ -100,6 +101,7 @@ application
 ADDED from F:\github\XXBUAA\CircleDemo\app\src\main\AndroidManifest.xml:24:5-70:19
 MERGED from [com.malinskiy:superrecyclerview:1.1.4] C:\Users\小黑866\.android\build-cache\f84e8ec475a5e29b9e1c8001b7fc236fb31f9053\output\AndroidManifest.xml:12:5-20
 MERGED from [com.mikhaellopez:circularprogressbar:1.1.1] C:\Users\小黑866\.android\build-cache\129a2abd4cf9542cca7b30a986fdb1afd7374d32\output\AndroidManifest.xml:12:5-20
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:1.2.0] C:\Users\小黑866\.android\build-cache\da3d70cba6c09d1c0e9c15e716fb772957f81188\output\AndroidManifest.xml:11:5-13:38
 MERGED from [pub.devrel:easypermissions:0.2.1] C:\Users\小黑866\.android\build-cache\7d1d68ff7be7da56ac0cc9ecdb7f93ef57baf9a1\output\AndroidManifest.xml:12:5-20
 MERGED from [CircleDemo:qupai:unspecified] F:\github\XXBUAA\CircleDemo\qupai\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:support-v13:22.2.0] C:\Users\小黑866\.android\build-cache\5478b8b7f78c6de0fb70853d93c5ea79a09a48cf\output\AndroidManifest.xml:22:5-20
@@ -121,7 +123,7 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\小黑866\
 	android:label
 		ADDED from F:\github\XXBUAA\CircleDemo\app\src\main\AndroidManifest.xml:28:9-41
 	android:supportsRtl
-		ADDED from [CircleDemo:qupai:unspecified] F:\github\XXBUAA\CircleDemo\qupai\build\intermediates\bundles\default\AndroidManifest.xml:14:9-35
+		ADDED from [com.ashokvarma.android:bottom-navigation-bar:1.2.0] C:\Users\小黑866\.android\build-cache\da3d70cba6c09d1c0e9c15e716fb772957f81188\output\AndroidManifest.xml:13:9-35
 	android:allowBackup
 		ADDED from F:\github\XXBUAA\CircleDemo\app\src\main\AndroidManifest.xml:25:9-35
 	android:icon

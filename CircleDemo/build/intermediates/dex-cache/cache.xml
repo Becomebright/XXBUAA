@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\小黑866\.android\build-cache\da3d70cba6c09d1c0e9c15e716fb772957f81188\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f72894374bf136ef52ef3098dd9039ae32e6fec4">
+        <dex dex="F:\github\XXBUAA\CircleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c146743be798925b0e0b39100692c94842b3323\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\github\XXBUAA\CircleDemo\qupai\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"

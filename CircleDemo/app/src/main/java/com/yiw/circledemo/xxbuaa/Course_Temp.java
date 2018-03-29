@@ -1,5 +1,6 @@
 package com.yiw.circledemo.xxbuaa;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -7,7 +8,8 @@ import android.widget.ArrayAdapter;
 import android.widget.GridView;
 import android.widget.Spinner;
 
-
+import com.ashokvarma.bottomnavigation.BottomNavigationBar;
+import com.ashokvarma.bottomnavigation.BottomNavigationItem;
 import com.yiw.circledemo.R;
 import com.yiw.circledemo.xxbuaa.TimeTableUI.AbsGridAdapter;
 import com.yiw.circledemo.xxbuaa.TimeTableUI.MyAdapter;
@@ -17,7 +19,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Course_Temp extends AppCompatActivity {
+public class Course_Temp extends AppCompatActivity{
 
     private Spinner spinner;
 
@@ -36,6 +38,8 @@ public class Course_Temp extends AppCompatActivity {
 
     private int[] num = new int[12];
 
+    private final int menuPosition = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -51,60 +55,58 @@ public class Course_Temp extends AppCompatActivity {
         secondAdapter = new AbsGridAdapter(this);
         secondAdapter.setContent(contents, 12, 7);
         detailCource.setAdapter(secondAdapter);
-//        //////////////创建Spinner数据
-//        fillDataList();
-//        spinnerAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, dataList);
-//        spinnerAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-//        spinner.setAdapter(spinnerAdapter);
-    }
-    /**
-     * 准备数据
-     */
-    private List<String> init() {
-        List<String> list = new ArrayList<String>();
-        list.add("现代测试技术B211");
-        list.add("数据结构与算法B211");
-        list.add("微机原理及应用E203");
-        list.add("面向对象程序设计A309");
-        list.add("数据结构与算法B207");
-        list.add("");
-        list.add("");
-        list.add("微机原理及应用E203");
-        list.add("");
-        list.add("电磁场理论A212");
-        list.add("传感器电子测量A\nC309");
-        list.add("微机原理及应用E203");
-        list.add("");
-        list.add("");
-        list.add("电磁场理论A212");
-        list.add("面向对象程序设计A309");
-        list.add("现代测试技术B211");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("传感器电子测量A\nC309");
-        list.add("面向对象程序设计A309");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        list.add("");
-        return list;
+        BottomNavigationBar bottomNavigationBar = (BottomNavigationBar) findViewById(R.id.bottom_navigation_bar);
+        bottomNavigationBar.setMode(BottomNavigationBar.MODE_FIXED);
+        bottomNavigationBar
+                .setBackgroundStyle(BottomNavigationBar.BACKGROUND_STYLE_STATIC
+                );
+//        BadgeItem numberBadgeItem = new BadgeItem()
+//                .setBorderWidth(4)
+//                .setBackgroundColor(Color.RED)
+//                .setText("5")
+//                .setHideOnSelect(true);
+        bottomNavigationBar.addItem(new BottomNavigationItem(R.mipmap.schedule, "课表查询").setActiveColorResource(R.color.orange))
+                .addItem(new BottomNavigationItem(R.mipmap.report, "成绩查询").setActiveColorResource(R.color.teal))
+                .addItem(new BottomNavigationItem(R.mipmap.friends, "校友圈").setActiveColorResource(R.color.blue))
+//                .addItem(new BottomNavigationItem(R.mipmap.search, "Movies & TV").setActiveColorResource(R.color.brown))
+//                .addItem(new BottomNavigationItem(R.mipmap.ic_videogame_asset_white_24dp, "Games").setActiveColorResource(R.color.grey).setBadgeItem(numberBadgeItem))
+                .setFirstSelectedPosition(menuPosition)
+                .initialise();
+        bottomNavigationBar.setTabSelectedListener(
+                new BottomNavigationBar.OnTabSelectedListener() {
+                    @Override
+                    public void onTabSelected(int position) {
+                        if(position == menuPosition) return;
+                        switch (position)
+                        {
+                            case 0:
+                                Intent intent0 = new Intent(getApplicationContext(), Course_Temp.class);
+                                startActivity(intent0);
+                                Log.d("start", intent0.toString());
+                                break;
+                            case 1:
+                                Intent intent1 = new Intent(getApplicationContext(), GradeTemp.class);
+                                startActivity(intent1);
+                                Log.d("start", intent1.toString());
+                                break;
+                            case 2:
+                                Intent intent2 = new Intent(getApplicationContext(), com.yiw.circledemo.activity.MainActivity.class);
+                                startActivity(intent2);
+                                break;
+                        }
+                    }
+
+                    @Override
+                    public void onTabUnselected(int position) {
+
+                    }
+
+                    @Override
+                    public void onTabReselected(int position) {
+
+                    }
+                }
+        );
     }
 
     public void fillStringArray() {
@@ -128,7 +130,7 @@ public class Course_Temp extends AppCompatActivity {
                     break;
                 case "周二":
                     InsertCourse(2, course);
-                    Log.d("周二",course.getData() + "时间:"+course.getTime()+"\n");
+                    //Log.d("周二",course.getData() + "时间:"+course.getTime()+"\n");
                     break;
                 case "周三":
                     InsertCourse(3, course);
@@ -194,4 +196,7 @@ public class Course_Temp extends AppCompatActivity {
         super.onDestroy();
         ActivityCollector.removeActivity(this);
     }
+
+
+    
 }

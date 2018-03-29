@@ -1,11 +1,11 @@
 [
     {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_font_effect.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\layout\\item_qupai_font_effect.xml"
-    },
-    {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_recorder.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\layout\\fragment_qupai_video_recorder.xml"
+    },
+    {
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_font_effect.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\layout\\item_qupai_font_effect.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_editor_diyoverlay_category.xml",
@@ -28,12 +28,12 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_guide_switch_again.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\layout\\balloon_tip_qupai_guide_switch_again.xml"
-    },
-    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_trim_video_thumbnail.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\layout\\item_qupai_trim_video_thumbnail.xml"
+    },
+    {
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_guide_switch_again.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\layout\\balloon_tip_qupai_guide_switch_again.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ab_qupai_qupai_import_video.xml",
@@ -62,6 +62,10 @@
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shifting_bottom_navigation_item.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\da3d70cba6c09d1c0e9c15e716fb772957f81188\\output\\res\\layout\\shifting_bottom_navigation_item.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\column_title.xml",
@@ -182,6 +186,10 @@
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\b406e5e512a9ca9eebeb2209112c6fdb325a096a\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_navigation_bar_container.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\da3d70cba6c09d1c0e9c15e716fb772957f81188\\output\\res\\layout\\bottom_navigation_bar_container.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coach_mark_qupai_recorder.xml",
@@ -656,10 +664,6 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\layout\\tab_widget_qupai_drafts.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\layout\\notification_action.xml"
-    },
-    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewstub_videobody.xml",
         "source": "F:\\android\\MyApplication\\CircleDemo\\app\\src\\main\\res\\layout\\viewstub_videobody.xml"
     },
@@ -884,6 +888,10 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\layout\\qupai_common_alert_dialog_progress.xml"
     },
     {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fixed_bottom_navigation_item.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\da3d70cba6c09d1c0e9c15e716fb772957f81188\\output\\res\\layout\\fixed_bottom_navigation_item.xml"
+    },
+    {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\layout\\notification_template_media.xml"
     },
@@ -1050,10 +1058,6 @@
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_horizontalscroll.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\f84e8ec475a5e29b9e1c8001b7fc236fb31f9053\\output\\res\\layout\\layout_recyclerview_horizontalscroll.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\layout\\notification_template_custom_big.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_font_unlock.xml",
@@ -1240,16 +1244,8 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\layout\\fragment_qupai_video_dubbing.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\b406e5e512a9ca9eebeb2209112c6fdb325a096a\\output\\res\\layout\\design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",

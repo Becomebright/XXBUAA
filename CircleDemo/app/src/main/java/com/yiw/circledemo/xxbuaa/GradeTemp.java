@@ -1,5 +1,6 @@
 package com.yiw.circledemo.xxbuaa;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
@@ -13,13 +14,15 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 
+import com.ashokvarma.bottomnavigation.BottomNavigationBar;
+import com.ashokvarma.bottomnavigation.BottomNavigationItem;
 import com.yiw.circledemo.R;
 
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class GradeTemp extends AppCompatActivity {
+public class GradeTemp extends AppCompatActivity{
     public Handler handler;
     public String getback = null;
     private List<String> dataList;
@@ -30,12 +33,13 @@ public class GradeTemp extends AppCompatActivity {
     private ListView listView;
     private GradeAdapter adapter;
     private FinalGradeList finalgradelist;
+    private final int menuPosition = 1;
+    private BottomNavigationBar bottomNavigationBar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         ActivityCollector.addActivity(this);
         setContentView(R.layout.activity_grade_temp);
-
         spinner = (Spinner)findViewById(R.id.switchTerm);
         android.support.v7.app.ActionBar actionBar = getSupportActionBar();
         if(actionBar != null){
@@ -53,6 +57,59 @@ public class GradeTemp extends AppCompatActivity {
         spinnerAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, dataList);
         spinnerAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         init();
+        bottomNavigationBar = (BottomNavigationBar) findViewById(R.id.bottom_navigation_bar);
+        bottomNavigationBar.setMode(BottomNavigationBar.MODE_FIXED);
+        bottomNavigationBar
+                .setBackgroundStyle(BottomNavigationBar.BACKGROUND_STYLE_STATIC
+                );
+//        BadgeItem numberBadgeItem = new BadgeItem()
+//                .setBorderWidth(4)
+//                .setBackgroundColor(Color.RED)
+//                .setText("5")
+//                .setHideOnSelect(true);
+        bottomNavigationBar.addItem(new BottomNavigationItem(R.mipmap.schedule, "课表查询").setActiveColorResource(R.color.orange))
+                .addItem(new BottomNavigationItem(R.mipmap.report, "成绩查询").setActiveColorResource(R.color.teal))
+                .addItem(new BottomNavigationItem(R.mipmap.friends, "校友圈").setActiveColorResource(R.color.blue))
+//                .addItem(new BottomNavigationItem(R.mipmap.search, "Movies & TV").setActiveColorResource(R.color.brown))
+//                .addItem(new BottomNavigationItem(R.mipmap.ic_videogame_asset_white_24dp, "Games").setActiveColorResource(R.color.grey).setBadgeItem(numberBadgeItem))
+                .setFirstSelectedPosition(menuPosition)
+                .initialise();
+        bottomNavigationBar.setTabSelectedListener(
+                new BottomNavigationBar.OnTabSelectedListener() {
+                    @Override
+                    public void onTabSelected(int position) {
+                        if(position == menuPosition) return;
+                        switch (position)
+                        {
+                            case 0:
+                                Intent intent0 = new Intent(getApplicationContext(), Course_Temp.class);
+                                startActivity(intent0);
+                                Log.d("start", intent0.toString());
+                                break;
+                            case 1:
+                                Intent intent1 = new Intent(getApplicationContext(), GradeTemp.class);
+                                startActivity(intent1);
+                                Log.d("start", intent1.toString());
+                                break;
+                            case 2:
+                                Intent intent2 = new Intent(getApplicationContext(), com.yiw.circledemo.activity.MainActivity.class);
+                                startActivity(intent2);
+                                bottomNavigationBar.setFirstSelectedPosition(menuPosition);
+                                break;
+                        }
+                    }
+
+                    @Override
+                    public void onTabUnselected(int position) {
+
+                    }
+
+                    @Override
+                    public void onTabReselected(int position) {
+
+                    }
+                }
+        );
     }
     private void init()
     {
@@ -111,13 +168,6 @@ public class GradeTemp extends AppCompatActivity {
         }
     }
 
-    private  void ShowGradeCourse()
-    {
-        for(Grade grade : finalgradelist.gradeList)
-        {
-            Log.d("Show", grade.getName());
-        }
-    }
 
     @Override
     protected void onDestroy(){
@@ -150,5 +200,7 @@ public class GradeTemp extends AppCompatActivity {
         }
         MainActivity.gradeList = sendgradejson.gradeList;
     }
+
+
 
 }

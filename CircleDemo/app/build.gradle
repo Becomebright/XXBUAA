@@ -59,6 +59,7 @@ dependencies {
     compile 'com.android.support:multidex:1.0.1'
     compile 'com.alibaba:fastjson:1.1.68.android'
     compile 'org.apache.httpcomponents:httpcore:4.4.4'
+    compile 'com.ashokvarma.android:bottom-navigation-bar:1.2.0'
 
     compile 'pub.devrel:easypermissions:0.2.1'
     compile project(':qupai')

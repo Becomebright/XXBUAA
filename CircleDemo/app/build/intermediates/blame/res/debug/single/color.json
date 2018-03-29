@@ -8,24 +8,40 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\b406e5e512a9ca9eebeb2209112c6fdb325a096a\\output\\res\\color\\design_error.xml"
     },
     {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\qupai_audio_mixer_dubbing_text_selector.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\color\\qupai_audio_mixer_dubbing_text_selector.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\qupai_audio_mixer_dubbing_text_selector.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\color\\qupai_audio_mixer_dubbing_text_selector.xml"
     },
     {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
@@ -34,110 +50,6 @@
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\qupai_effect_chooser_item_text_long.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\color\\qupai_effect_chooser_item_text_long.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_edit_text_qupai_overlay.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\color\\tab_edit_text_qupai_overlay.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\b406e5e512a9ca9eebeb2209112c6fdb325a096a\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_widget_bg_qupai_drafts.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\color\\tab_widget_bg_qupai_drafts.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\theme_default_qupai_text_edit_effect.xml",
@@ -152,12 +64,20 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\b406e5e512a9ca9eebeb2209112c6fdb325a096a\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
@@ -166,10 +86,6 @@
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_edit_text_qupai_overlay.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\color\\tab_edit_text_qupai_overlay.xml"
-    },
-    {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
@@ -188,15 +104,35 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\qupai_effect_chooser_item_text_long.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\d0177e7487ef0b4c2e1bdf9d3e1654c55d6e3ab8\\output\\res\\color\\qupai_effect_chooser_item_text_long.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_edit_text_qupai_overlay.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\color\\tab_edit_text_qupai_overlay.xml"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\b406e5e512a9ca9eebeb2209112c6fdb325a096a\\output\\res\\color\\design_error.xml"
     },
     {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
@@ -204,8 +140,16 @@
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\b406e5e512a9ca9eebeb2209112c6fdb325a096a\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_widget_bg_qupai_drafts.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\c60920761328219dad19cfb23900b16bd675d394\\output\\res\\color\\tab_widget_bg_qupai_drafts.xml"
     },
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\theme_default_qupai_text_edit_effect.xml",
@@ -214,5 +158,21 @@
     {
         "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
         "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "F:\\android\\MyApplication\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\小黑866\\.android\\build-cache\\0ec3a60cd229213b06cf51d7041f31ed642740e3\\output\\res\\color\\abc_primary_text_material_light.xml"
     }
 ]

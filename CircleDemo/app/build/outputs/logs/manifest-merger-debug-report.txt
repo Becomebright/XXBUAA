@@ -17,11 +17,11 @@ ADDED from F:\github\XXBUAA\CircleDemo\app\src\main\AndroidManifest.xml:2:1-72:1
 		ADDED from F:\github\XXBUAA\CircleDemo\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from F:\github\XXBUAA\CircleDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\小黑866\.android\build-cache\bab372b243bdaf2d2eb86e0407f322620e517797\output\AndroidManifest.xml:18:5-42
 MERGED from [com.github.chrisbanes:PhotoView:1.3.0] C:\Users\小黑866\.android\build-cache\5d55f18654a2ea83f315dc5cf7b54c5e861a4bff\output\AndroidManifest.xml:8:5-10:41
 MERGED from [com.malinskiy:superrecyclerview:1.1.4] C:\Users\小黑866\.android\build-cache\f84e8ec475a5e29b9e1c8001b7fc236fb31f9053\output\AndroidManifest.xml:8:5-10:41
 MERGED from [com.mikhaellopez:circularprogressbar:1.1.1] C:\Users\小黑866\.android\build-cache\129a2abd4cf9542cca7b30a986fdb1afd7374d32\output\AndroidManifest.xml:8:5-10:41
 MERGED from [com.zhuangfei:TimetableView:1.0.1] C:\Users\小黑866\.android\build-cache\9f55a90415a213bc89e60c7e056a5ad213893eff\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\小黑866\.android\build-cache\bab372b243bdaf2d2eb86e0407f322620e517797\output\AndroidManifest.xml:18:5-42
 MERGED from [com.ashokvarma.android:bottom-navigation-bar:1.2.0] C:\Users\小黑866\.android\build-cache\da3d70cba6c09d1c0e9c15e716fb772957f81188\output\AndroidManifest.xml:7:5-9:41
 MERGED from [pub.devrel:easypermissions:0.2.1] C:\Users\小黑866\.android\build-cache\7d1d68ff7be7da56ac0cc9ecdb7f93ef57baf9a1\output\AndroidManifest.xml:8:5-10:41
 MERGED from [CircleDemo:qupai:unspecified] F:\github\XXBUAA\CircleDemo\qupai\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41

@@ -20,7 +20,7 @@ import java.util.List;
 public class SendUserJson implements Runnable {
     private String username;
     private String password;
-    public String content = null;
+    public String content = "";
     public List<Grade> gradeList = new ArrayList<Grade>();
     public SendUserJson(){}
     public SendUserJson(String account, String password){
@@ -41,8 +41,8 @@ public class SendUserJson implements Runnable {
             connection=(HttpURLConnection)url.openConnection();
             connection.setRequestProperty("Content-Type","application/json; charset=UTF-8");
             connection.setRequestMethod("POST");
-            connection.setConnectTimeout(12000);
-            connection.setReadTimeout(12000);
+            connection.setConnectTimeout(1200000);
+            connection.setReadTimeout(1200000);
             connection.setDoOutput(true);
             //post请求的参数
             User u = new User(username, password);

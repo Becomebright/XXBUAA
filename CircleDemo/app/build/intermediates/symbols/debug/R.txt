@@ -1573,7 +1573,7 @@ int id action_mode_bar_stub 0x7f0f00b6
 int id action_mode_close_button 0x7f0f0099
 int id action_settings 0x7f0f0268
 int id action_text 0x7f0f01e1
-int id actions 0x7f0f01ee
+int id actions 0x7f0f01ef
 int id activity_chooser_view_content 0x7f0f009a
 int id activity_na 0x7f0f00d2
 int id add 0x7f0f0067
@@ -1788,7 +1788,7 @@ int id home 0x7f0f000c
 int id homeAsUp 0x7f0f005d
 int id ic_self_timer_countdown 0x7f0f018f
 int id icon 0x7f0f009f
-int id icon_group 0x7f0f01ef
+int id icon_group 0x7f0f01f0
 int id id_choose_week_item_week 0x7f0f0119
 int id id_choose_week_layout 0x7f0f0118
 int id id_container 0x7f0f0260
@@ -1998,7 +1998,7 @@ int id remember_pass 0x7f0f01da
 int id renderProgress 0x7f0f00ed
 int id renderText 0x7f0f00ec
 int id right 0x7f0f0057
-int id right_icon 0x7f0f01f0
+int id right_icon 0x7f0f01ee
 int id right_side 0x7f0f01e9
 int id round 0x7f0f0070
 int id save_toast_text 0x7f0f0254

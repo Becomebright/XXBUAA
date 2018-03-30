@@ -271,7 +271,7 @@ public class AddPostActivity extends AppCompatActivity {
                         Toast.makeText(AddPostActivity.this,"请至少发布一张图片",Toast.LENGTH_SHORT).show();
                         return;
                     }
-                    String str="###跳瘙市场###\n"+editText.getText().toString()+"\n期望价格："+editTextprice.getText().toString()+"\n联系方式"+editTextphone.getText().toString();
+                    String str="###跳蚤市场###\n"+editText.getText().toString()+"\n期望价格："+editTextprice.getText().toString()+"\n联系方式"+editTextphone.getText().toString();
 
                     addJson=new AddJson(Integer.parseInt(user_id),str,formatter.format(curDate),"5",photos);
                 }

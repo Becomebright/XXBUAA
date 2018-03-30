@@ -5,7 +5,7 @@ android {
     buildToolsVersion '27.0.0'
     defaultConfig {
         applicationId "com.yiw.circledemo"
-        minSdkVersion 24
+        minSdkVersion 20
         targetSdkVersion 26
         multiDexEnabled true
     }

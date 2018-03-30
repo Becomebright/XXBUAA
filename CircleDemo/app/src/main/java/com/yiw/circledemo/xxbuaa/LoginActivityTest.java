@@ -106,7 +106,7 @@ public class LoginActivityTest extends AppCompatActivity {
                     Log.d("Hello1", String.valueOf(s));
 
                     if(!s){
-                        Toast.makeText(LoginActivityTest.this, "用户名或密码错误", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(LoginActivityTest.this, "登录失败，请稍候重试", Toast.LENGTH_SHORT).show();
                     }
                     else{
                         Toast.makeText(LoginActivityTest.this, "登录成功", Toast.LENGTH_SHORT).show();
@@ -136,9 +136,10 @@ public class LoginActivityTest extends AppCompatActivity {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        if(!senduserjson.content.equals("False") ) {
+        if(senduserjson.content.equals("")) return false;
+        else if(!senduserjson.content.equals("False") ) {
             getback = senduserjson.content;
-            Log.d("Hello", getback);
+            Log.d("Hello getback", getback);
             return true;
         }
         else return false;
@@ -192,8 +193,8 @@ public class LoginActivityTest extends AppCompatActivity {
                     connection=(HttpURLConnection)url.openConnection();
                     connection.setRequestProperty("Content-Type","application/json; charset=UTF-8");
                     connection.setRequestMethod("POST");
-                    connection.setConnectTimeout(8000);
-                    connection.setReadTimeout(8000);
+                    connection.setConnectTimeout(120000);
+                    connection.setReadTimeout(120000);
                     connection.setDoOutput(true);
 
                     //post请求的参数

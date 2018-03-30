@@ -20,8 +20,16 @@
         "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable-xxhdpi\\im_snsimg.png"
     },
     {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\im_skin_icon_imageload_failed.png",
         "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable-xxhdpi\\im_skin_icon_imageload_failed.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\im_distribute_comm_bg.9.png",
@@ -30,6 +38,10 @@
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_praise.png",
         "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_praise.png"
+    },
+    {
+        "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png",
+        "source": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
     },
     {
         "merged": "F:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\im_aio_image_fail_round.png",

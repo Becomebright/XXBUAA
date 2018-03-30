@@ -4543,7 +4543,7 @@ containing a value of this type.
         public static final int action_mode_close_button=0x7f0f0099;
         public static final int action_settings=0x7f0f0268;
         public static final int action_text=0x7f0f01e1;
-        public static final int actions=0x7f0f01ee;
+        public static final int actions=0x7f0f01ef;
         public static final int activity_chooser_view_content=0x7f0f009a;
         public static final int activity_na=0x7f0f00d2;
         public static final int add=0x7f0f0067;
@@ -4758,7 +4758,7 @@ containing a value of this type.
         public static final int homeAsUp=0x7f0f005d;
         public static final int ic_self_timer_countdown=0x7f0f018f;
         public static final int icon=0x7f0f009f;
-        public static final int icon_group=0x7f0f01ef;
+        public static final int icon_group=0x7f0f01f0;
         public static final int id_choose_week_item_week=0x7f0f0119;
         public static final int id_choose_week_layout=0x7f0f0118;
         public static final int id_container=0x7f0f0260;
@@ -4968,7 +4968,7 @@ containing a value of this type.
         public static final int renderProgress=0x7f0f00ed;
         public static final int renderText=0x7f0f00ec;
         public static final int right=0x7f0f0057;
-        public static final int right_icon=0x7f0f01f0;
+        public static final int right_icon=0x7f0f01ee;
         public static final int right_side=0x7f0f01e9;
         public static final int round=0x7f0f0070;
         public static final int save_toast_text=0x7f0f0254;

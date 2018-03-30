@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Mar 30 17:00:00 CST 2018
+#Fri Mar 30 19:10:33 CST 2018
 1073.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\theme_default_qupai_edit_diy_overlay_content_frame_selector.xml
 1090.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 1007.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -40,7 +40,7 @@
 221.set=ANDROID_RESOURCE
 1101.set=ANDROID_RESOURCE
 350.set=ANDROID_RESOURCE
-922.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png
+922.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
 775.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 814.set=JAVA_RESOURCE
 690.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
@@ -105,7 +105,7 @@
 377.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 275.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\jsr305-3.0.0_59fbe84b1a6070ac068d059dd2beeb00249ba526\\classes.dex
 1093.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\viewstub_urlbody.xml
-838.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png
+838.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
 209.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 292.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 753.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_mode_close_item_material.xml
@@ -1085,7 +1085,7 @@
 134.set=ANDROID_RESOURCE
 771.set=ANDROID_RESOURCE
 622.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
-1149.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png
+1149.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\item_up.png
 977.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\dagger-compiler-2.0.1_fa76348e358e39b5deee7811a1272d08a08e9538\\classes.dex
 348.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 1064.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\assets\\Qupai\\GLESv2\\Shader\\Blit.fsh
@@ -1580,7 +1580,7 @@
 599.set=ANDROID_RESOURCE
 134.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\balloon_tip_anchor_top_right.png
 465.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
-612.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png
+612.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png
 1181.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\balloon_tip_qupai_tab_overlay.xml
 380.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 217.set=ANDROID_RESOURCE
@@ -1745,7 +1745,7 @@ count=1209
 274.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_template_big_media.xml
 1092.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png
 1009.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_qupai_null_music.png
-837.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+837.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png
 291.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 208.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 752.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_check_material.xml
@@ -2039,7 +2039,7 @@ count=1209
 1111.set=ANDROID_RESOURCE
 360.set=ANDROID_RESOURCE
 360.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\theme_default_qupai_progress_drawable.xml
-923.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+923.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png
 776.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\assets\\debug
 824.set=ANDROID_RESOURCE
 1010.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\assets\\Qupai\\filter\\meili\\config.json
@@ -2725,7 +2725,7 @@ count=1209
 761.set=ANDROID_RESOURCE
 621.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 890.set=ANDROID_RESOURCE
-1148.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\item_up.png
+1148.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png
 976.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\assets\\Qupai\\SkinBeautifier\\beauty_1.png
 347.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
 1063.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\qupai_btn_delete_draft_pressed.png
@@ -3218,7 +3218,7 @@ count=1209
 589.set=ANDROID_RESOURCE
 133.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\qupai_diy_overlay_progress_rotate.xml
 549.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
-611.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png
+611.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png
 464.base=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 1180.file=F\:\\github\\XXBUAA\\CircleDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\beauty_icon_25.png
 207.set=ANDROID_RESOURCE

@@ -67,17 +67,17 @@
         android:id="@+id/checkBoxts"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="发布到跳骚市场" />
+        android:text="发布到跳蚤市场" />
 
     <GridView
         android:id="@+id/gv"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:background="#ffffff"
-        android:columnWidth="80dp"
+        android:columnWidth="120dp"
         android:gravity="center"
         android:horizontalSpacing="5dp"
-        android:numColumns="4"
+        android:numColumns="3"
         android:stretchMode="columnWidth"
         android:verticalSpacing="5dp" />
 

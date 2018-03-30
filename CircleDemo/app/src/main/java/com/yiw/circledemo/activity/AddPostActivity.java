@@ -166,7 +166,7 @@ public class AddPostActivity extends AppCompatActivity {
                                     } catch (InterruptedException e) {
                                         e.printStackTrace();
                                     }
-                                    Bitmap bitmap=decodeSampledBitmapFromFile(imgpath,80,80);
+                                    Bitmap bitmap=decodeSampledBitmapFromFile(imgpath,120,120);
 
                                     String s=nphotopath.substring(0, nphotopath.length()-4);
                                     s=s+"1.jpg";
@@ -177,7 +177,7 @@ public class AddPostActivity extends AppCompatActivity {
                                     } catch (FileNotFoundException e) {
                                         e.printStackTrace();
                                     }
-                                    bitmap.compress(Bitmap.CompressFormat.JPEG,10,os1);
+                                    bitmap.compress(Bitmap.CompressFormat.JPEG,50,os1);
                                     PhotoInfo photoInfo1=new PhotoInfo();
                                     photoInfo1.h=height;
                                     photoInfo1.w=width;

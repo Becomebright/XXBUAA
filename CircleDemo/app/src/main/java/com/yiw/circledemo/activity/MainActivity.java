@@ -271,12 +271,19 @@ public class MainActivity extends YWActivity implements CircleContract.View, Eas
         });
         textView.setTextColor(getResources().getColor(R.color.white));
 		titleBar.setLeftTextColor(getResources().getColor(R.color.white));
-		titleBar.setLeftText("跳瘙市场");
+		titleBar.setLeftText("跳蚤市场");
 		titleBar.setLeftClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View view) {
 				DatasUtil.flag=DatasUtil.flag^1;
-
+				if(DatasUtil.flag==0){
+					titleBar.setTitle("BUAA跳蚤市场");
+					titleBar.setLeftText("返回校友圈");
+				}
+				else{
+					titleBar.setTitle("BUAA校友圈");
+					titleBar.setLeftText("跳蚤市场");
+				}
 				recyclerView.setRefreshing(true);//执行下拉刷新的动画
 				refreshListener.onRefresh();//执行数据加载操作
 			}

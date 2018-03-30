@@ -154,8 +154,8 @@ public class AddPostActivity extends AppCompatActivity {
                                         e.printStackTrace();
                                     }
                                     bm.compress(Bitmap.CompressFormat.JPEG,10,os) ;
-                                    ImageAndText imageAndText=new ImageAndText(nphotopath);
-                                    Toast.makeText(AddPostActivity.this,nphotopath,Toast.LENGTH_LONG).show();
+
+                                    //Toast.makeText(AddPostActivity.this,nphotopath,Toast.LENGTH_LONG).show();
                                     //list.add(imageAndText);
                                     //imageAndTextListAdapter.notifyDataSetChanged();
                                     PostImage postImage=new PostImage(nphotopath);
@@ -167,13 +167,24 @@ public class AddPostActivity extends AppCompatActivity {
                                         e.printStackTrace();
                                     }
                                     Bitmap bitmap=decodeSampledBitmapFromFile(imgpath,80,80);
-                                    bitmap.compress(Bitmap.CompressFormat.JPEG,10,os);
+
+                                    String s=nphotopath.substring(0, nphotopath.length()-4);
+                                    s=s+"1.jpg";
+                                    File file1=new File(s);
+                                    OutputStream os1 = null;
+                                    try {
+                                        os1 =new FileOutputStream(file1);
+                                    } catch (FileNotFoundException e) {
+                                        e.printStackTrace();
+                                    }
+                                    bitmap.compress(Bitmap.CompressFormat.JPEG,10,os1);
                                     PhotoInfo photoInfo1=new PhotoInfo();
                                     photoInfo1.h=height;
                                     photoInfo1.w=width;
                                     photoInfo1.url=postImage.getBackpath();
                                     photos.add(photoInfo1);
-                                    if(photos.size()<2){
+                                    if(photos.size()<10){
+                                        ImageAndText imageAndText=new ImageAndText(s);
                                         list.add(imageAndText);
                                         imageAndTextListAdapter.notifyDataSetChanged();
                                     }

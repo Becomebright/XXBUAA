@@ -62,7 +62,7 @@ public class Slide_Menu extends Activity implements View.OnClickListener {
         navigationView = (NavigationView) findViewById(R.id.nav);
         menu= (ImageView) findViewById(R.id.main_menu);
         View headerView = navigationView.getHeaderView(0);
-        drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);//关闭手势滑动，只通过点击按钮来滑动
+        //drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);//关闭手势滑动，只通过点击按钮来滑动
         menu.setOnClickListener(this);
         navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
             @Override

@@ -85,7 +85,7 @@ public class SendUserJson implements Runnable {
     private  void parseJSONWithJSONObject(String jsonData){
         try{
             MainActivity.user = JSON.parseObject(jsonData, User.class);
-            Log.d("Hello", MainActivity.user.getAcademy());
+            Log.d("Hello", MainActivity.user.getNickname());
         }catch (Exception e){
             e.printStackTrace();
         }

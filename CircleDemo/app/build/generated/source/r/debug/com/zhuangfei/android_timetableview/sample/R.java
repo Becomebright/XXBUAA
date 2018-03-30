@@ -162,8 +162,8 @@ public final class R {
         public static final int action_settings = 0x7f0f0268;
         public static final int contentPanel = 0x7f0f00a4;
         public static final int head_layout = 0x7f0f0256;
-        public static final int id_choose_week_item_week = 0x7f0f011a;
-        public static final int id_choose_week_layout = 0x7f0f0119;
+        public static final int id_choose_week_item_week = 0x7f0f0119;
+        public static final int id_choose_week_layout = 0x7f0f0118;
         public static final int id_container = 0x7f0f0260;
         public static final int id_course_head_term = 0x7f0f025b;
         public static final int id_course_head_text = 0x7f0f025a;

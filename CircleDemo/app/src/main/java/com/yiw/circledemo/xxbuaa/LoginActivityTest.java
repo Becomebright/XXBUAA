@@ -86,23 +86,18 @@ public class LoginActivityTest extends AppCompatActivity {
             rememberPass.setChecked(true);
         }
         signin = (Button) findViewById(R.id.signin);
-        avi = (AVLoadingIndicatorView) findViewById(R.id.avi);
-        avi.smoothToHide();
         signin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                avi.show();
                 //ActionwhenClick();
                 String account = accountEdit.getText().toString();
                 String password = passwordEdit.getText().toString();
                 if(account.isEmpty()){
                     Toast.makeText(LoginActivityTest.this, "用户名不能为空", Toast.LENGTH_SHORT).show();
-                    avi.hide();
                     return;
                 }
                 else if(password.isEmpty()){
                     Toast.makeText(LoginActivityTest.this, "密码不能为空", Toast.LENGTH_SHORT).show();
-                    avi.hide();
                     return;
                 }
                 else
@@ -112,7 +107,6 @@ public class LoginActivityTest extends AppCompatActivity {
 
                     if(!s){
                         Toast.makeText(LoginActivityTest.this, "用户名或密码错误", Toast.LENGTH_SHORT).show();
-                        avi.hide();
                     }
                     else{
                         Toast.makeText(LoginActivityTest.this, "登录成功", Toast.LENGTH_SHORT).show();
@@ -125,8 +119,7 @@ public class LoginActivityTest extends AppCompatActivity {
                             editor.clear();
                         }
                         editor.apply();
-                        avi.hide();
-                        Intent walkThrough = new Intent(LoginActivityTest.this, Slide_Menu.class);
+                        Intent walkThrough = new Intent(LoginActivityTest.this, Course_Temp.class);
                         startActivity(walkThrough);
                     }
                 }

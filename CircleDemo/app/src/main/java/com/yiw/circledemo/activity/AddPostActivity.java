@@ -44,6 +44,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+import static com.yiw.circledemo.xxbuaa.Slide_Menu.decodeSampledBitmapFromFile;
+
 /**
  * Created by hasee-pc on 2018/03/20.
  */
@@ -153,6 +155,7 @@ public class AddPostActivity extends AppCompatActivity {
                                     }
                                     bm.compress(Bitmap.CompressFormat.JPEG,10,os) ;
                                     ImageAndText imageAndText=new ImageAndText(nphotopath);
+                                    Toast.makeText(AddPostActivity.this,nphotopath,Toast.LENGTH_LONG).show();
                                     //list.add(imageAndText);
                                     //imageAndTextListAdapter.notifyDataSetChanged();
                                     PostImage postImage=new PostImage(nphotopath);
@@ -163,14 +166,16 @@ public class AddPostActivity extends AppCompatActivity {
                                     } catch (InterruptedException e) {
                                         e.printStackTrace();
                                     }
+                                    Bitmap bitmap=decodeSampledBitmapFromFile(imgpath,80,80);
+                                    bitmap.compress(Bitmap.CompressFormat.JPEG,10,os);
                                     PhotoInfo photoInfo1=new PhotoInfo();
                                     photoInfo1.h=height;
                                     photoInfo1.w=width;
                                     photoInfo1.url=postImage.getBackpath();
                                     photos.add(photoInfo1);
-                                    if(photos.size()<3){
-                                        //list.add(imageAndText);
-                                        //imageAndTextListAdapter.notifyDataSetChanged();
+                                    if(photos.size()<2){
+                                        list.add(imageAndText);
+                                        imageAndTextListAdapter.notifyDataSetChanged();
                                     }
                                     //imageAndTextListAdapter.notifyDataSetChanged();
                                     //EditText editText=(EditText)findViewById(R.id.editTextpz);

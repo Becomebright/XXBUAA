@@ -2,22 +2,19 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
+        android:id="@+id/lessonlist"
+
+        android:title="  课表查询"/>
+    <item
         android:id="@+id/grade"
         android:title="  成绩查询"/>
 
 
     <item
-        android:id="@+id/lessonlist"
-
-        android:title="  课表查询"/>
-    <item
-        android:id="@+id/news"
-        android:title="  校园新闻"/>
-    <item
         android:id="@+id/friends"
         android:title="  朋友圈"/>
     <item
         android:id="@+id/setting"
-        android:title="设置头像"/>
+        android:title="  设置头像"/>
 
 </menu>

@@ -20,7 +20,7 @@
         android:layout_alignParentRight="true"
         android:layout_marginBottom="15dp"
         android:layout_marginRight="25dp"
-        android:src="@drawable/icon_head" />
+        android:src="@mipmap/person" />
 
     <TextView
         android:id="@+id/Testviewname"
